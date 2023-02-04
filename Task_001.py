@@ -8,7 +8,6 @@
 
 from random import randint
 n = int(input('Введите количество монет лежащих на столе: '))
-# print('Введите положение монеты 1 - решка, 0 - орел: ')
 k = 0
 coin_position = []
 for i in range(n):    
